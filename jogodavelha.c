@@ -36,7 +36,7 @@ int menu(void)
 {
     int opcao;
  
-        printf("\t\tJogo da Velha 1.0 - Site C Progressivo\n");
+        printf("\t\tJogo da Velha\n");
         printf("\n1.Jogar\n");
         printf("0.Sair\n");
         printf("\nOpcao: ");
